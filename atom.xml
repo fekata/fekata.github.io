@@ -4,9 +4,9 @@
   <subtitle>...you could call my life on the road.Prior to that I&#39;d always dreamed of...</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://fekata.github.io/"/>
   <updated>2017-02-11T02:26:25.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://fekata.github.io/</id>
   
   <author>
     <name>阿卡</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>精一行，必先通十行</title>
-    <link href="http://yoursite.com/2017/02/11/%E7%B2%BE%E4%B8%80%E8%A1%8C%E5%BF%85%E5%85%88%E9%80%9A%E5%8D%81%E8%A1%8C/"/>
-    <id>http://yoursite.com/2017/02/11/精一行必先通十行/</id>
+    <link href="https://fekata.github.io/2017/02/11/%E7%B2%BE%E4%B8%80%E8%A1%8C%E5%BF%85%E5%85%88%E9%80%9A%E5%8D%81%E8%A1%8C/"/>
+    <id>https://fekata.github.io/2017/02/11/精一行必先通十行/</id>
     <published>2017-02-11T10:13:54.000Z</published>
     <updated>2017-02-11T02:26:25.000Z</updated>
     
@@ -29,17 +29,17 @@
     
     </summary>
     
-      <category term="文章" scheme="http://yoursite.com/categories/%E6%96%87%E7%AB%A0/"/>
+      <category term="文章" scheme="https://fekata.github.io/categories/%E6%96%87%E7%AB%A0/"/>
     
     
-      <category term="文章" scheme="http://yoursite.com/tags/%E6%96%87%E7%AB%A0/"/>
+      <category term="文章" scheme="https://fekata.github.io/tags/%E6%96%87%E7%AB%A0/"/>
     
   </entry>
   
   <entry>
     <title>KATA JavaScript Library v1.0</title>
-    <link href="http://yoursite.com/2017/02/10/KATA%20JavaScript%20Library%20v1.0/"/>
-    <id>http://yoursite.com/2017/02/10/KATA JavaScript Library v1.0/</id>
+    <link href="https://fekata.github.io/2017/02/10/KATA%20JavaScript%20Library%20v1.0/"/>
+    <id>https://fekata.github.io/2017/02/10/KATA JavaScript Library v1.0/</id>
     <published>2017-02-10T08:40:23.000Z</published>
     <updated>2017-02-10T00:41:49.000Z</updated>
     
@@ -49,19 +49,19 @@
     
     </summary>
     
-      <category term="前端" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://fekata.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+      <category term="学习" scheme="https://fekata.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-      <category term="工具库" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7%E5%BA%93/"/>
+      <category term="工具库" scheme="https://fekata.github.io/tags/%E5%B7%A5%E5%85%B7%E5%BA%93/"/>
     
   </entry>
   
   <entry>
     <title>《你不知道的JavaScript 上卷》 笔记一</title>
-    <link href="http://yoursite.com/2017/02/08/%E3%80%8A%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript%20%E4%B8%8A%E5%8D%B7%E3%80%8B%20%E7%AC%94%E8%AE%B0%E4%B8%80/"/>
-    <id>http://yoursite.com/2017/02/08/《你不知道的JavaScript 上卷》 笔记一/</id>
+    <link href="https://fekata.github.io/2017/02/08/%E3%80%8A%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript%20%E4%B8%8A%E5%8D%B7%E3%80%8B%20%E7%AC%94%E8%AE%B0%E4%B8%80/"/>
+    <id>https://fekata.github.io/2017/02/08/《你不知道的JavaScript 上卷》 笔记一/</id>
     <published>2017-02-08T14:48:23.000Z</published>
     <updated>2017-02-11T03:05:17.000Z</updated>
     
@@ -71,19 +71,19 @@
     
     </summary>
     
-      <category term="前端" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://fekata.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="笔记" scheme="http://yoursite.com/tags/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://fekata.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
-      <category term="前端" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://fekata.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/02/08/hello-world/"/>
-    <id>http://yoursite.com/2017/02/08/hello-world/</id>
+    <link href="https://fekata.github.io/2017/02/08/hello-world/"/>
+    <id>https://fekata.github.io/2017/02/08/hello-world/</id>
     <published>2017-02-08T01:12:00.000Z</published>
     <updated>2017-02-08T05:03:11.000Z</updated>
     
