@@ -87,25 +87,16 @@
 
 
 
-<meta name="description" content="1.作用域作用域是根据名称查找变量的一套规则。当一个块或函数嵌套在另一个块或函数中时，就会发生作用域嵌套。因此，在当前作用域中无法找到某个变量时，引擎就会在外层嵌套的作用域中继续查找，直到找到该变量，或抵达最外层的作用域（全局作用域）为止。
-LHS和RHS的区别据不可靠资料以及自己的理解，LHS是”left hand side”的简写，RHS是”right hand side”的简写。
-
-如果目的">
+<meta name="description" content="1.作用域作用域是根据名称查找变量的一套规则。当一个块或函数嵌套在另一个块或函数中时，就会发生作用域嵌套。因此，在当前作用域中无法找到某个变量时，引擎就会在外层嵌套的作用域中继续查找，直到找到该变量，或抵达最外层的作用域（全局作用域）为止。">
 <meta property="og:type" content="article">
 <meta property="og:title" content="《你不知道的JavaScript 上卷》 笔记一">
 <meta property="og:url" content="http://yoursite.com/2017/02/08/《你不知道的JavaScript 上卷》 笔记一/index.html">
 <meta property="og:site_name" content="FEKATA">
-<meta property="og:description" content="1.作用域作用域是根据名称查找变量的一套规则。当一个块或函数嵌套在另一个块或函数中时，就会发生作用域嵌套。因此，在当前作用域中无法找到某个变量时，引擎就会在外层嵌套的作用域中继续查找，直到找到该变量，或抵达最外层的作用域（全局作用域）为止。
-LHS和RHS的区别据不可靠资料以及自己的理解，LHS是”left hand side”的简写，RHS是”right hand side”的简写。
-
-如果目的">
-<meta property="og:updated_time" content="2017-02-08T08:45:49.000Z">
+<meta property="og:description" content="1.作用域作用域是根据名称查找变量的一套规则。当一个块或函数嵌套在另一个块或函数中时，就会发生作用域嵌套。因此，在当前作用域中无法找到某个变量时，引擎就会在外层嵌套的作用域中继续查找，直到找到该变量，或抵达最外层的作用域（全局作用域）为止。">
+<meta property="og:updated_time" content="2017-02-11T03:05:17.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="《你不知道的JavaScript 上卷》 笔记一">
-<meta name="twitter:description" content="1.作用域作用域是根据名称查找变量的一套规则。当一个块或函数嵌套在另一个块或函数中时，就会发生作用域嵌套。因此，在当前作用域中无法找到某个变量时，引擎就会在外层嵌套的作用域中继续查找，直到找到该变量，或抵达最外层的作用域（全局作用域）为止。
-LHS和RHS的区别据不可靠资料以及自己的理解，LHS是”left hand side”的简写，RHS是”right hand side”的简写。
-
-如果目的">
+<meta name="twitter:description" content="1.作用域作用域是根据名称查找变量的一套规则。当一个块或函数嵌套在另一个块或函数中时，就会发生作用域嵌套。因此，在当前作用域中无法找到某个变量时，引擎就会在外层嵌套的作用域中继续查找，直到找到该变量，或抵达最外层的作用域（全局作用域）为止。">
 
 
 
@@ -363,7 +354,7 @@ LHS和RHS的区别据不可靠资料以及自己的理解，LHS是”left hand s
       
 
       
-        <h2 id="1-作用域"><a href="#1-作用域" class="headerlink" title="1.作用域"></a>1.作用域</h2><p>作用域是根据名称查找变量的一套规则。<br>当一个块或函数嵌套在另一个块或函数中时，就会发生作用域嵌套。因此，在当前作用域中无法找到某个变量时，引擎就会在外层嵌套的作用域中继续查找，直到找到该变量，或抵达最外层的作用域（全局作用域）为止。</p>
+        <h2 id="1-作用域"><a href="#1-作用域" class="headerlink" title="1.作用域"></a>1.作用域</h2><p>作用域是根据名称查找变量的一套规则。<br>当一个块或函数嵌套在另一个块或函数中时，就会发生作用域嵌套。因此，在当前作用域中无法找到某个变量时，引擎就会在外层嵌套的作用域中继续查找，直到找到该变量，或抵达最外层的作用域（全局作用域）为止。<br><a id="more"></a></p>
 <h5 id="LHS和RHS的区别"><a href="#LHS和RHS的区别" class="headerlink" title="LHS和RHS的区别"></a>LHS和RHS的区别</h5><p>据不可靠资料以及自己的理解，LHS是”left hand side”的简写，RHS是”right hand side”的简写。</p>
 <ul>
 <li>如果目的是获取变量的值，就会使用RHS查询。如果RHS查询在所有嵌套的作用域中找不到所需的变量，引擎就会跑出<code>ReferenceError</code>异常。</li>
