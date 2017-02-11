@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>FEKATA</title>
+  <subtitle>...you could call my life on the road.Prior to that I&#39;d always dreamed of...</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-02-11T02:26:25.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>阿卡</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>精一行，必先通十行</title>
+    <link href="http://yoursite.com/2017/02/11/%E7%B2%BE%E4%B8%80%E8%A1%8C%E5%BF%85%E5%85%88%E9%80%9A%E5%8D%81%E8%A1%8C/"/>
+    <id>http://yoursite.com/2017/02/11/精一行必先通十行/</id>
+    <published>2017-02-11T10:13:54.000Z</published>
+    <updated>2017-02-11T02:26:25.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;融合的优势在于任何一方面能力的发挥都会有其他几方面去辅助它，从而比那些只专注一方面的人要来的更有竞争力。 &lt;/p&gt;
+&lt;p&gt;全栈工程师，也叫全端工程师(同时具备前端和后台能力)，是指掌握多种技能，并能利用多种技能独立完成产品的人；现代项目的开发，需要掌握多种技术。互联网项目，
+    
+    </summary>
+    
+      <category term="文章" scheme="http://yoursite.com/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+      <category term="文章" scheme="http://yoursite.com/tags/%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>KATA JavaScript Library v1.0</title>
+    <link href="http://yoursite.com/2017/02/10/KATA%20JavaScript%20Library%20v1.0/"/>
+    <id>http://yoursite.com/2017/02/10/KATA JavaScript Library v1.0/</id>
+    <published>2017-02-10T08:40:23.000Z</published>
+    <updated>2017-02-10T00:41:49.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;工具库&quot;&gt;&lt;a href=&quot;#工具库&quot; class=&quot;headerlink&quot; title=&quot;工具库&quot;&gt;&lt;/a&gt;工具库&lt;/h3&gt;&lt;p&gt;一些实用的小功能，慢慢完善。&lt;br&gt;&lt;figure class=&quot;highlight js&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td clas
+    
+    </summary>
+    
+      <category term="前端" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="工具库" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《你不知道的JavaScript 上卷》 笔记一</title>
+    <link href="http://yoursite.com/2017/02/08/%E3%80%8A%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript%20%E4%B8%8A%E5%8D%B7%E3%80%8B%20%E7%AC%94%E8%AE%B0%E4%B8%80/"/>
+    <id>http://yoursite.com/2017/02/08/《你不知道的JavaScript 上卷》 笔记一/</id>
+    <published>2017-02-08T14:48:23.000Z</published>
+    <updated>2017-02-11T03:05:17.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;1-作用域&quot;&gt;&lt;a href=&quot;#1-作用域&quot; class=&quot;headerlink&quot; title=&quot;1.作用域&quot;&gt;&lt;/a&gt;1.作用域&lt;/h2&gt;&lt;p&gt;作用域是根据名称查找变量的一套规则。&lt;br&gt;当一个块或函数嵌套在另一个块或函数中时，就会发生作用域嵌套。因此，在当前作用域中无法找到某个变量时，引擎就会在外层嵌套的作用域中继续查找，直到找到该变量，或抵达最外层的作用域（全局作用域）为止。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="前端" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="笔记" scheme="http://yoursite.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="前端" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/02/08/hello-world/"/>
+    <id>http://yoursite.com/2017/02/08/hello-world/</id>
+    <published>2017-02-08T01:12:00.000Z</published>
+    <updated>2017-02-08T05:03:11.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
