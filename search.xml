@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[imageTest]]></title>
+      <url>%2F2017%2F02%2F11%2FimageTest%2F</url>
+      <content type="text"><![CDATA[图片测试]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[精一行，必先通十行]]></title>
       <url>%2F2017%2F02%2F11%2F%E7%B2%BE%E4%B8%80%E8%A1%8C%E5%BF%85%E5%85%88%E9%80%9A%E5%8D%81%E8%A1%8C%2F</url>
       <content type="text"><![CDATA[融合的优势在于任何一方面能力的发挥都会有其他几方面去辅助它，从而比那些只专注一方面的人要来的更有竞争力。 全栈工程师，也叫全端工程师(同时具备前端和后台能力)，是指掌握多种技能，并能利用多种技能独立完成产品的人；现代项目的开发，需要掌握多种技术。互联网项目，需要用到后端开发、前端开发、界面设计、产品设计、数据库、各种移动客户端、三屏兼容、restFul API设计和 OAuth 等等，比较前卫的项目，还会用到 SPA、Web Socket、HTML5/CSS3 这些技术以及像第三方开发像微信公众号微博应用等等。 简而言之，全栈工程师（全端工程师）= 前端 + 后端 + 数据库 + IOS App + Andriod App + 界面设计 + 产品设计 + 用户体验等。 所以，2017年，继续默默努力。]]></content>
