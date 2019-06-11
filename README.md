@@ -1,2 +1,0 @@
-# fekata.github.io
-blog
