@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21e30b"],{d504:function(t,e,n){"use strict";n.r(e);var s=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"index"},[n("h1",[t._v("🕳 这很明显是一个坑")]),n("k-test",{on:{click:t.test}})],1)},c=[],l={name:"Index",methods:{test:function(){console.log("test")}}},o=l,i=n("2877"),u=Object(i["a"])(o,s,c,!1,null,null,null);e["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d21e30b.52b0bf0a.js.map
